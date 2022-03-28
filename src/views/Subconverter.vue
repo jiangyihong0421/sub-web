@@ -255,8 +255,8 @@ export default {
           "自动判断客户端": "auto",
         },
         customBackend: {
-          "localhost:25500 本地版": "http://localhost:25500/sub?",
-          "sub.nerocats.cn (nerocats.cn提供）": "https://sub.nerocats.cn/sub?",
+          "sub.naday.com": "http://sub.naday.com/sub?",
+	  "localhost:25500 本地版": "http://localhost:25500/sub?",
           "sub-beta.now.sh (自动编译最新版本后端-测试）": "https://sub-beta.now.sh/sub?",
           "subcon.dlj.tf(subconverter作者提供-稳定)":
             "https://subcon.dlj.tf/sub?",
